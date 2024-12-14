@@ -2509,10 +2509,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
-.banner-area2 {
-  background: url(CONTACT\ US.jpg) center;
-  background-size: cover;
-}
+
+
+
 
 .banner-area .overlay-bg {
   background: rgba(4, 9, 30, 0.4);
@@ -3043,6 +3042,10 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-size: cover;
 }
 
+.about-banner3 {
+  background: url(CARS.jpg) center;
+  background-size: cover;
+}
 
 .about-banner .overlay-bg {
   background: rgba(4, 9, 30, 0.4);
