@@ -838,6 +838,32 @@ td, th {
 /* =================================== */
 /*  Elements Page Styles
 /* =================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*---------- Start Elements Page -------------*/
 .whole-wrap {
   background-color: #f9f9ff;
@@ -2400,7 +2426,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .primary-btn {
-  background: #f8b600;
+  background: #1b193e;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 30px;
@@ -3038,7 +3064,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 
 .about-banner2 {
-  background: url(CONTACT\ US.jpg) center;
+  background: url(contact\ form.jpg) center;
   background-size: cover;
 }
 
@@ -3505,7 +3531,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .post-content-area .single-post .primary-btn:hover {
-  background: #f8b600 !important;
+  background: #1c1f50 !important;
   color: #fff !important;
 }
 
@@ -4166,8 +4192,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .comment-form .primary-btn:hover {
   background: transparent;
-  border-color: #f8b600 !important;
-  color: #f8b600 !important;
+  border-color: #1b193e !important;
+  color: #1b193e !important;
 }
 
 /*============ End Blog Single Styles  =============*/
@@ -4281,7 +4307,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area .primary-btn {
-  background-color: #f8b600;
+  background-color: #1b193e;
   line-height: 42px;
   padding-left: 30px;
   padding-right: 60px;
@@ -4338,11 +4364,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .footer-area .primary-btn.white:hover {
   background: #fff;
-  color: #f8b600;
+  color: #1b193e;
 }
 
 .footer-area .primary-btn.white:hover span {
-  color: #f8b600;
+  color: #1b193e;
 }
 
 .footer-area h6 {
@@ -4354,7 +4380,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .copy-right-text i, .copy-right-text a {
-  color: #f8b600;
+  color: #1b193e;
 }
 
 .instafeed {
