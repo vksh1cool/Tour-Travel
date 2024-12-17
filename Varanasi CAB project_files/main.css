@@ -2511,7 +2511,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 /*-------- Start Banner Area ------------*/
 .banner-area {
-  background: url(Forest\ Wallpaper.jpg) center;
+  background: url(about\ banner\ main.jpg) center;
   background-size: cover;
 }
 
@@ -2713,7 +2713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-  background: url(Forest\ Wallpaper.jpg) center;
+  background: url(about\ banner\ main.jpg) center;
   background-size: cover;
 }
 
@@ -3049,7 +3049,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .about-banner {
-  background: url(../img/top-banner.jpg) center;
+  background: url(about\ banner\ main.jpg) center;
   background-size: cover;
 }
 
